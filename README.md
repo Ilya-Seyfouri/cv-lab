@@ -3,7 +3,7 @@
 An intelligent CV optimization platform that uses GPT-4 to analyze job descriptions and tailor resumes with evidence-based precision.
 
 
-Check it out --- https://cvlab.up.railway.app/
+https://cvlab.up.railway.app/
 
 
 
